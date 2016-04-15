@@ -1,0 +1,1 @@
+/home/pauk/DevelopmentProcess/opencv/Projects/DisplayImage/CMakeFiles/DisplayImage.dir
